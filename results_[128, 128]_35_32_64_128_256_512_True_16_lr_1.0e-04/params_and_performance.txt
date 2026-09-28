@@ -1,5 +1,0 @@
-Parameters: {'BATCH_NORM': True, 'BATCH_SIZE': 16, 'CONV_KERNEL_SIZE': 2, 'DEEP_SUPERVISION': False, 'DEVICE': 'cuda', 'IMAGE_WIDTH_HEIGHT': [128, 128], 'KERNEL_POOL_SIZE': 2, 'LEARNING_RATE': 0.0001, 'LOAD_MODEL': False, 'LOSS_FUNCTION': DLxFL(
-  (dice_loss): DiceLoss()
-  (focal_loss): FocalLoss()
-), 'NUM_EPOCHS': 30, 'ROTATE_LIMIT': 35, 'SCHEDULER': 'step_lr', 'TRAIN_IMG_DIR': 'C:\\Users\\223120964.HCAD\\OneDrive - GEHealthCare\\Desktop\\Projet_ML_Casablanca\\Unet\\data\\train_images', 'TRAIN_MASKS_DIR': 'C:\\Users\\223120964.HCAD\\OneDrive - GEHealthCare\\Desktop\\Projet_ML_Casablanca\\Unet\\data\\train_masks', 'UNET_FEATURES': [32, 64, 128, 256, 512], 'VAL_IMG_DIR': 'C:\\Users\\223120964.HCAD\\OneDrive - GEHealthCare\\Desktop\\Projet_ML_Casablanca\\Unet\\data\\val_images', 'VAL_MASKS_DIR': 'C:\\Users\\223120964.HCAD\\OneDrive - GEHealthCare\\Desktop\\Projet_ML_Casablanca\\Unet\\data\\val_masks'}
-Performance: None
