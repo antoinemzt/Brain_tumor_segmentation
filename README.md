@@ -140,7 +140,7 @@ L'agrégateur U-Net a été optimisé par recherche bayésienne (Optuna) : toute
 2. L. Maier-Hein et al. *Why rankings of biomedical image analysis competitions should be interpreted with care.* Nature Communications, 9(1):5217, 2018.
 3. O. Ronneberger, P. Fischer, T. Brox. *U-Net: Convolutional Networks for Biomedical Image Segmentation.* arXiv:1505.04597, 2015.
 
-Rapport complet : [`BSF_Report.pdf`](./report/BSF_Report.pdf)
+Rapport complet : [`BSF_Report.pdf`](./BSF_Report.pdf)
 
 ---
 
